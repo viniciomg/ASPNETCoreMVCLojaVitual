@@ -1,0 +1,11 @@
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\netcoreapp2.0\ProjetoZero.deps.json
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\netcoreapp2.0\ProjetoZero.runtimeconfig.json
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\netcoreapp2.0\ProjetoZero.runtimeconfig.dev.json
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\netcoreapp2.0\ProjetoZero.dll
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\bin\Debug\netcoreapp2.0\ProjetoZero.pdb
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.csprojResolveAssemblyReference.cache
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.AssemblyInfo.cs
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.dll
+C:\Users\vinic\Desktop\Primeiro Projeto\ProjetoZero\ProjetoZero\obj\Debug\netcoreapp2.0\ProjetoZero.pdb
